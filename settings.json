@@ -1,19 +1,36 @@
 {
-  "token": "put your token here",
-  "nitro_max": 2,
-  "cooldown": 24,
+  "token": ""NzI2ODUxNjMxMjk0OTcxOTQ1.YZ67aA.au1tCSUOsTbvlDorKERpFRRFLBw"",
+  "nitro_max": 100,
+  "cooldown": 0,
   "giveaway_sniper": true,
 
   "giveaway_delay": {
-    "minimum": 60,
-    "maximum": 120
+    "minimum": 0,
+    "maximum": 1
+       "blacklist_words": [
+      "bot",
+      "test",
+      "ban"
+    ],
+    "whitelist_words": [],
+    "blacklist_servers": []
   },
 
   "snipe_on_main": true,
   "dm_host": true,
-  "dm_message": "hi, i won your giveaway!",
-  "webhook_url": "",
-  "webhook_ping_id": "",
-  "report_fails_to_webhook": false,
+  "dm_message": "Yo i won the gw can i claim the reward",
+  "webhook_url": "https://discord.com/api/webhooks/912818972032913498/1lwP23Y9ixCNf0WRyNMFI6gVIID-mLHo886QSEYtsLvvVIgdIP2S2moVux7GwxC-fRw4",
+  "webhook_ping_id": "913315711185715230",
+  "report_fails_to_webhook": true,
   "save_cache": true
+
+  "invite": {
+    "enable": true,
+    "delay": {
+      "min": 0,
+      "max": 
+
+  },
 }
+
+  
